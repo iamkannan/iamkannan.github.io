@@ -1,0 +1,3 @@
+[submodule "letterAvatar"]
+	path = letterAvatar
+	url = ../letterAvatar.git
